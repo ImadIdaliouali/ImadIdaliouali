@@ -28,11 +28,6 @@ I'm Imad, 👨🏽‍💻 Developer from <img src="https://cdn.countryflags.com/
 
 
 <br>
-<a align="center" href="https://ImadIdaliouali.github.io">
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImadIdaliouali&layout=compact&theme=tokyonight" alt="languages" height="165">
-    </p>
-</a>
 
 ---
 
