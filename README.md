@@ -14,9 +14,6 @@ I'm Imad, a 1nd Year Degree Student 👨‍🎓 of Information
   <img align="left" alt="Anas Twitter" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCmQ4g5V4SL1qJD4XduOp3SA">
-  <img align="left" alt="Anas YouTube Channel" width="30px" height="30px" src="https://user-images.githubusercontent.com/65866281/133908246-5f799532-5f46-45ca-8555-348828c1c55f.png" />
-</a>
 
 <br/>
 
