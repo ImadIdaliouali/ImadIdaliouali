@@ -1,6 +1,6 @@
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello Everybody.</h1>
 
-I'm Imad, Developer from <img src="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" width="13"/> <b>Essouira, Morocco.</b>
+I'm Imad, 👨🏽‍💻 Developer from <img src="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" width="13"/> <b>Essouira, Morocco.</b>
 
 ---
 
