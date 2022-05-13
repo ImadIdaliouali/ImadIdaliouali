@@ -1,6 +1,6 @@
 ### Hello everybody 👋
 
-I'm Imad, a 1nd Year Degree Student 👨‍🎓 of Information
+I'm Imad, 
 
 ---
 
@@ -34,6 +34,12 @@ I'm Imad, a 1nd Year Degree Student 👨‍🎓 of Information
 <br>
 
 ---
+
+### My latest posts
+<ul>
+    <li><a href="https://github.com/ImadIdaliouali/Shared-Memory-and-Semaphores"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Shared-Memory-and-Semaphores</b></a><br/><i>Shared Memory and Semaphores.</i></li>
+    <li><a href="https://github.com/ImadIdaliouali/Micro_Projet"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Micro_Projet</b></a><br/><i>Micro Projet.</i></li>
+</ul>
 
 <!--
 **ImadIdaliouali/ImadIdaliouali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
