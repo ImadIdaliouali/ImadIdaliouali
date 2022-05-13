@@ -7,12 +7,8 @@ I'm Imad, 👨🏽‍💻 Developer from <img src="https://cdn.countryflags.com/
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/imad-idali-ouali-663100236/">
-  <img align="left" alt="Imad LinkedIn" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
-</a>
-
-<a href="https://twitter.com/imad_idaliouali">
-  <img align="left" alt="Imad Twitter" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
-</a>
+<p><a href="https://github.com/ImadIdaliouali" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/imad_idaliouali" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/imad-idali-ouali-663100236/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 
 <br/>
