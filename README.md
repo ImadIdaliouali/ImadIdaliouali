@@ -17,7 +17,7 @@ I'm Imad, 👨🏽‍💻 Developer from <img src="https://cdn.countryflags.com/
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
-<img align="left" alt="C" width="29px" src="https://simple.wikipedia.org/wiki/C_(programming_language)#/media/File:C_Programming_Language.svg" />
+<img align="left" alt="C" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" />
 <img align="left" alt="C++" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/131px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="HTML5" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
