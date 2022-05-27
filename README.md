@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Imad;a+1st+Year+Student+👨‍🎓+of+Computer+Science;from+<img src="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" width="13"/>+Essouira+,+Morocco.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Imad;a+1st+Year+Student+👨‍🎓+of+Computer+Science;from+🇲🇦+Essouira+,+Morocco.;&center=true&width=500&height=50"></a>
 </p>
 
 
