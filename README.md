@@ -5,8 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨‍💻+Computer+Science+Student;from+Essouira+,+🇲🇦+Morocco.;&center=true&width=500&height=50"></a>
 </p>
 
-<br>
-
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
 <br>
@@ -18,7 +16,7 @@ You can follow me on the socials, below 👇.
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ImadIdaliouali&label=Profile%20views&color=0e75b6&style=plastic" alt="amirbayat0" /> 
+	<img src="https://komarev.com/ghpvc/?username=ImadIdaliouali&label=Profile%20views&color=0e75b6&style=plastic" alt="ImadIdaliouali" /> 
 </p>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
