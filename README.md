@@ -16,7 +16,9 @@ You can follow me on the socials, below 👇.
 <br><br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ImadIdaliouali&label=Profile%20views&color=0e75b6&style=plastic" alt="ImadIdaliouali" /> 
+	<a href="https://github.com/formidablae/my_github_profile_views_counter">
+		<img width="135em" src="https://github.com/ImadIdaliouali/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
+	</a>
 </p>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
