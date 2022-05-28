@@ -13,7 +13,7 @@ I'm Computer Science Student👨‍💻.
 I’m interested in Python. 
 You can follow me on the socials, below 👇.
 
-<br><br>
+<br>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
 
