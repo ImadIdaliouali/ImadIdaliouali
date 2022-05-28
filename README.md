@@ -40,11 +40,9 @@ You can follow me on the socials, below 👇.
 <img align="left" alt="SQL" src="https://img.shields.io/badge/MYSQL-E44C30?style=for-the-badge&logo=MYSQL&logoColor=blue" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img align="left" alt="Terminal" src="https://img.shields.io/badge/Terminal-100000?style=for-the-badge&logo=Terminal&logoColor=white" />
-<br>
+<img align="left" alt="Terminal" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 
-
-<br>
+<br><br>
 
 ---
 ### Text Editor (IDE):
