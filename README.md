@@ -20,7 +20,7 @@
 
 ---
 
-### Languages and Tools:
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools:
 
 <img align="left" alt="Python" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="C" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
