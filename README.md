@@ -1,8 +1,8 @@
-### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello Everybody.</h1>
+### <h1 align="center">Hi , I'm Imad Idali Ouali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ---
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Imad;A+1st+Year+Student+👨‍🎓+of+Computer+Science;from+Essouira+,🇲🇦+Morocco.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+👨‍💻+Computer+Science+Student.;from+Essouira+,🇲🇦+Morocco.;&center=true&width=500&height=50"></a>
 </p>
 
 <br>
