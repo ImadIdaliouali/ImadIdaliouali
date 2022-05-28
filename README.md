@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨‍💻+Computer+Science+Student;from+Essouira+,+🇲🇦+Morocco;You+can+follow+me+on+the+socials,+below+👇.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨‍💻+Computer+Science+Student;from+Essouira+,+🇲🇦+Morocco.;&center=true&width=500&height=50"></a>
 </p>
 
 <br>
@@ -30,7 +30,7 @@ You can follow me on the socials, below 👇.
 
 ---
 
-### <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Python" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="C" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
