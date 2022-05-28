@@ -56,6 +56,11 @@ You can follow me on the socials, below 👇.
 ### My latest posts
 <ul>
     <li><a href="https://github.com/ImadIdaliouali/Shared-Memory-and-Semaphores"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Shared Memory and Semaphores</b></a><br/><i>Shared Memory and Semaphores in C programming.</i></li>
+	<p align="center">
+	<a href="https://github.com/ImadIdaliouali/Shared-Memory-and-Semaphores">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=ImadIdaliouali&repo=Shared-Memory-and-Semaphores&hide_border=true&theme=dark">
+	</a>
+</p>
     <li><a href="https://github.com/ImadIdaliouali/Micro_Projet"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Micro Project</b></a><br/><i>Process Management in Operating System (OS) in C programming</i></li>
 </ul>
 
