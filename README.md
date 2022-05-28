@@ -13,7 +13,7 @@ I'm Computer Science Student👨‍💻.
 I’m interested in Python. 
 You can follow me on the socials, below 👇.
 
-<br>
+<br><br>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=ImadIdaliouali&label=Profile%20views&color=0e75b6&style=plastic" alt="ImadIdaliouali" /> 
