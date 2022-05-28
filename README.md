@@ -2,9 +2,14 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=red&lines=I'm+Imad;A+1st+Year+Student+👨‍🎓+of+Computer+Science;from+Essouira+,🇲🇦+Morocco.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Imad;A+1st+Year+Student+👨‍🎓+of+Computer+Science;from+Essouira+,🇲🇦+Morocco.;&center=true&width=500&height=50"></a>
 </p>
 
+<br>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=ImadIdaliouali&label=Profile%20views&color=0e75b6&style=plastic" alt="amirbayat0" /> 
+</p>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
 
