@@ -37,12 +37,11 @@ You can follow me on the socials, below 👇.
 <img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="SQL" src="https://img.shields.io/badge/SQL-E44C30?style=for-the-badge&logo=SQL&logoColor=white" />
+<img align="left" alt="SQL" src="https://img.shields.io/badge/MYSQL-E44C30?style=for-the-badge&logo=MYSQL&logoColor=blue" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="Terminal" src="https://img.shields.io/badge/Terminal-100000?style=for-the-badge&logo=Terminal&logoColor=white" />
 <br>
-<img align="left" alt="MostUsed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImadIdaliouali" />
 
 
 <br>
@@ -53,7 +52,7 @@ You can follow me on the socials, below 👇.
 <img align="left" alt="VS-Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="left" alt="Sublime-Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 <img align="left" alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
-<img align="left" alt="Vim" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img align="left" alt="Android-Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 
 
 
