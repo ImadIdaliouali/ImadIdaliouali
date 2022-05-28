@@ -2,10 +2,20 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨‍💻+Computer+Science+Student;from+Essouira+,+🇲🇦+Morocco; You+can+follow+me+on+the+socials,+below+👇.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨‍💻+Computer+Science+Student;from+Essouira+,+🇲🇦+Morocco;You+can+follow+me+on+the+socials,+below+👇.;&center=true&width=500&height=50"></a>
 </p>
 
 <br>
+
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
+
+<br><br>
+Hello Everyone 👋, My name is Imad.
+I'm Computer Science Student👨‍💻.
+I’m interested in Python. 
+You can follow me on the socials, below 👇.
+
+<br><br>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=ImadIdaliouali&label=Profile%20views&color=0e75b6&style=plastic" alt="amirbayat0" /> 
