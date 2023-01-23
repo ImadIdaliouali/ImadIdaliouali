@@ -27,3 +27,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImadIdaliouali&show_icons=true&locale=en" alt="ImadIdaliouali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ImadIdaliouali&" alt="ImadIdaliouali" /></p>
+
+<h3 align="left">Random Dev Quote:</h3>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
