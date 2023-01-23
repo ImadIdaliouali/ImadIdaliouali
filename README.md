@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **imadidaliouali@gmail.com**
 
+</p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
