@@ -4,7 +4,7 @@
 <h3 align="center">A second Year Student of Computer Science from Essaouira, Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ImadIdaliouali&label=Profile%20views&color=0e75b6&style=flat" alt="ImadIdaliouali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ImadIdaliouali&label=Profile%20views&color=0e75b6&style=flat" alt="ImadIdaliouali" /> </p>
 
 - 🌱 I’m currently learning **React native**
 
