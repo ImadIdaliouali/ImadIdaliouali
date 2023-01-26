@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ImadIdaliouali" alt="ImadIdaliouali" /></p>
 
-<h3 align="left">Recently Played:</h3>
+<h3 align="left">Spotify Recently Played:</h3>
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=5s1rw47d3q68vsbplknsilsbu)
 
 <h3 align="left">Random Dev Quote:</h3>
