@@ -21,9 +21,6 @@
     <a href="mailto:imadidaliouali@gmail.com">
         <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
     </a>
-    <a href="https://twitter.com/imad_idaliouali/">
-        <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:6px 4px">
-    </a>
     <a href="https://www.instagram.com/imad.idaliouali/">
         <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="LinkedIn" style="vertical-align:top; margin:6px 4px">
     </a>
