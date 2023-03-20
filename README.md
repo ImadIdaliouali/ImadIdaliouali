@@ -58,9 +58,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ImadIdaliouali" alt="ImadIdaliouali" /></p>
 
-### Spotify Recently Played:
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=5s1rw47d3q68vsbplknsilsbu)
-
 ### Random Dev Quote:
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
