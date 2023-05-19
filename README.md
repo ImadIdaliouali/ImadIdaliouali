@@ -69,9 +69,6 @@
     <a href="https://www.gnu.org/software/bash/">
         <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
     </a>
-    <a href="https://www.docker.com/">
-        <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
-    </a>
     <a href="https://code.visualstudio.com/">
         <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
     </a>
