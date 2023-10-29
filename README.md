@@ -13,10 +13,10 @@
    <img src="https://skillicons.dev/icons?i=express" width="30" alt="Express.js">
    <img src="https://skillicons.dev/icons?i=react" width="30" alt="React.js">
    <img src="https://skillicons.dev/icons?i=nodejs" width="30" alt="Node.js">
-   <img src="https://skillicons.dev/icons?i=vite" width="30" alt="Vite">
    <img src="https://skillicons.dev/icons?i=php" width="30" alt="PHP">
    <img src="https://skillicons.dev/icons?i=mysql" width="30" alt="MySQL">
    <img src="https://skillicons.dev/icons?i=flutter" width="30" alt="Flutter">
+   <img src="https://skillicons.dev/icons?i=vite" width="30" alt="Vite">
    <img src="https://skillicons.dev/icons?i=vscode" width="30" alt="Visual Studio Code">
    <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git">
    <img src="https://skillicons.dev/icons?i=postman" width="30" alt="Postman">
