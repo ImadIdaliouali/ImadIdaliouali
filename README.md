@@ -31,10 +31,4 @@
 </div>
 
 <br/>
-
-<details>
-   <summary></summary>
-   <p>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImadIdaliouali&theme=transparent"/>
-   </p>
-</details>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImadIdaliouali&theme=transparent"/>
